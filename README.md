@@ -16,10 +16,7 @@ para utilizar as ferramentas do desenvolvedor.
 
 ## Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+![Tecnologias](https://skillicons.dev/icons?i=html,css)
 
 ## Contribuição
 Foram utilizadas as nossas próprias imagens, alunos do Instituto PROA, e outras também buscadas em bancos <br>
